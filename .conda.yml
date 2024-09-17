@@ -1,4 +1,4 @@
-name: env
+name: Hackathon2024
 channels:
   - default
   - conda-forge
